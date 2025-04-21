@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ikerm01&label=Profile%20views&color=0e75b6&style=flat" alt="ikerm01" /> </p>
 
-- 🔭 I’m currently working on [project_asix](https://github.com/Ikerm01/project_asix/tree/main)
+- 🔭 I’m currently working on [project2](https://github.com/Ikerm01/project2.github.io)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
